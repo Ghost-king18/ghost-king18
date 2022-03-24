@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ghost-king18/ghost-king18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 par mail nourabdel345@gmail.com
 - 😄 Abdennour Siaci
 - ⚡ Un jour j'ai passer toute ma maison de fonte encombre pour trouver mon telephone ça ma pris 2h pour que à la fin je realise qu'il etait juste dans ma poche 
--->
+
